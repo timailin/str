@@ -140,20 +140,3 @@ Cydia позиционировалась как новая, свободная �
 
   
 Джей Фриман называет себя «серой шляпой», то есть он действует на грани закона, не переступая черту. Входил в группу iPhone Dev Team, которая занималась разработкой [джейлбрейков iOS](https://en.wikipedia.org/wiki/IOS_jailbreaking). Вероятно, он причастен к разработке эксплоитов. Но использование готовых эксплоитов для установки на свой телефон любого программного обеспечения, а также видоизменение установленного на своём телефоне софта не нарушает американского законодательства. Также и _написание_ программного обеспечения не может являться нарушением закона [согласно Конституции США](https://en.wikipedia.org/wiki/Bernstein_v._United_States). Здесь тонкая грань, которую Саурик благоразумно старается не переходить, по крайней мере, публично. Хотя пришлось удалить из открытого доступа половину разработанных инструментов, но сам он на свободе.  
-
-> **[Telegram-канал](https://bit.ly/3KZeaxv) и [уютный чат](https://bit.ly/3qoIOXs) для клиентов**
-
-[![](https://habrastorage.org/r/w1560/webt/sz/7j/pf/sz7jpfj8i1pa6ocj-eia09dev4q.png)](http://ruvds.com/ru-rub?utm_source=habr&utm_medium=article&utm_campaign=alizar&utm_content=zhizn_vydayushhixsya_programmistov._dzhej_friman_(saurik))
-
-Теги:
-
-*   [Джей Фриман](/ru/search/?target_type=posts&order=relevance&q=%5B%D0%94%D0%B6%D0%B5%D0%B9%20%D0%A4%D1%80%D0%B8%D0%BC%D0%B0%D0%BD%5D)
-*   [saurik](/ru/search/?target_type=posts&order=relevance&q=%5Bsaurik%5D)
-*   [джейлбрейк iOS](/ru/search/?target_type=posts&order=relevance&q=%5B%D0%B4%D0%B6%D0%B5%D0%B9%D0%BB%D0%B1%D1%80%D0%B5%D0%B9%D0%BA%20iOS%5D)
-*   [Linux на iOS](/ru/search/?target_type=posts&order=relevance&q=%5BLinux%20%D0%BD%D0%B0%20iOS%5D)
-*   [s3fs](/ru/search/?target_type=posts&order=relevance&q=%5Bs3fs%5D)
-*   [Cydia](/ru/search/?target_type=posts&order=relevance&q=%5BCydia%5D)
-*   [Telesphoreo](/ru/search/?target_type=posts&order=relevance&q=%5BTelesphoreo%5D)
-*   [CoreOS](/ru/search/?target_type=posts&order=relevance&q=%5BCoreOS%5D)
-*   [iPhoneUnix](/ru/search/?target_type=posts&order=relevance&q=%5BiPhoneUnix%5D)
-*   [ruvds\_статьи](/ru/search/?target_type=posts&order=relevance&q=%5Bruvds_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8%5D)
